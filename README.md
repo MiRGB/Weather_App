@@ -1,1 +1,1 @@
-# Weather_App
+A weather application that can be launched in a browser using the index.html file. The app uses an external weather API provided by weatherapi.com, allowing users to obtain up-to-date weather information based on the city name. After entering the city, the application displays the current temperature, weather description, and other data related to the atmospheric conditions.
