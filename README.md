@@ -55,3 +55,8 @@ To use the weather data, the application relies on a free API key from [weathera
 🙌 Acknowledgements
 This project was created for educational purposes and to practice working with REST APIs and asynchronous JavaScript (fetch).
 Feedback and contributions are welcome!
+
+## 📄 Copyright Notice
+
+Copyright © MiRGB, 2025.  
+All rights reserved.
