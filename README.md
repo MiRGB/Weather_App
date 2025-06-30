@@ -5,7 +5,7 @@ A simple and functional weather application that can be launched directly in the
 ## 🚀 Live Demo
 
 Try it out here:  
-👉 [Weather App - GitHub Pages](https://mirgb.github.io/Weather_App/)
+👉 [Weather App - GitHub Pages](https://mirgb.github.io/weather-app/)
 
 ## 🌍 How It Works
 
@@ -39,11 +39,11 @@ To run the application locally:
 
 1. Clone the repository:
 
-`git clone https://github.com/mirgb/Weather_App.git`
+`git clone https://github.com/MiRGB/weather-app.git`
 
 2. Navigate to the project folder:
 
-`cd Weather_App`
+`cd weather-app`
 
 3. Open the `index.html` file in your preferred web browser.
 
@@ -56,7 +56,7 @@ To use the weather data, the application relies on a free API key from [weathera
 This project was created for educational purposes and to practice working with REST APIs and asynchronous JavaScript (fetch).
 Feedback and contributions are welcome!
 
-## 📄 Copyright Notice
+## 📄 License
 
-Copyright © MiRGB, 2025.  
-All rights reserved.
+⚠️ This project is not open source. All rights reserved.  
+For review purposes only. See the [LICENSE](./LICENSE) file for full terms.
